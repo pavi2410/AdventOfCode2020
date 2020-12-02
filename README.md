@@ -1,7 +1,7 @@
 # Playing `Advent of Code 2020` in Kotlin
 
-- [ ] [Day 1 part 1](https://github.com/pavi2410/AdventOfCode2020-KT/tree/main/Day1_1.ws.kts)
-- [ ] [Day 1 part 2](https://github.com/pavi2410/AdventOfCode2020-KT/tree/main/Day1_2.ws.kts)
+- [x] [Day 1 part 1](https://github.com/pavi2410/AdventOfCode2020-KT/tree/main/Day1_1.ws.kts)
+- [x] [Day 1 part 2](https://github.com/pavi2410/AdventOfCode2020-KT/tree/main/Day1_2.ws.kts)
 - [ ] [Day 2 part 1](https://github.com/pavi2410/AdventOfCode2020-KT/tree/main/Day2_1.ws.kts)
 - [ ] [Day 2 part 2](https://github.com/pavi2410/AdventOfCode2020-KT/tree/main/Day2_2.ws.kts)
 - [ ] [Day 3 part 1](https://github.com/pavi2410/AdventOfCode2020-KT/tree/main/Day3_1.ws.kts)
